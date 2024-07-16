@@ -1,0 +1,210 @@
+{
+  "Id": "6700aa4b-f45b-40a3-af75-1fafc32049ef"/*AllMyProjectsAreGone*/,
+  "Description": "A trojan miner infected my HDD and I had to reset. Some folders I copied apparently didn't finish copying. Bye previous projects. Let's start fresh.",
+  "InputUis": [],
+  "SymbolChildUis": [
+    {
+      "ChildId": "ee8f188e-bf87-4a2c-a234-ae832202112e"/*RenderTarget*/,
+      "Position": {
+        "X": -508.15387,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "f6ccd730-fd83-4e06-b777-32a7b65a79cf"/*Text*/,
+      "Position": {
+        "X": -958.1539,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "344dc4c1-8462-4728-9d29-6e396bc04717"/*Transform*/,
+      "Position": {
+        "X": -808.1539,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "797f17df-fd26-4463-9c5a-356f40ec68af"/*AudioReaction*/,
+      "Position": {
+        "X": -518.11566,
+        "Y": -413.78378
+      }
+    },
+    {
+      "ChildId": "31520fb8-59a1-4255-b21d-beb0c96add83"/*PointsOnImage*/,
+      "Position": {
+        "X": -358.15387,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "137faaa7-3857-4807-a532-93e9b6519959"/*DrawPoints*/,
+      "Position": {
+        "X": 91.84613,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "2e4a3095-761d-401e-868d-6b143054bd88"/*RenderTarget*/,
+      "Position": {
+        "X": 241.84613,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "49842c21-7b00-474d-8a65-df35af2c546b"/*ParticleSystem*/,
+      "Position": {
+        "X": -58.15387,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "b85de6dc-7a26-4c68-aaff-c11c92f6e220"/*RandomizePoints*/,
+      "Position": {
+        "X": -208.15387,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "5082c41e-d305-4750-bda5-c273b3f01f8b"/*Vector4*/,
+      "Style": "Expanded",
+      "Size": {
+        "X": 110.0,
+        "Y": 75.0
+      },
+      "Position": {
+        "X": -51.70764,
+        "Y": -378.252
+      }
+    },
+    {
+      "ChildId": "8cf2aecb-ac86-4e94-91d5-52b29bc7a41b"/*Add*/,
+      "Position": {
+        "X": -218.11563,
+        "Y": -413.78378
+      }
+    },
+    {
+      "ChildId": "27465681-ee53-4c5a-81d1-56d219a88176"/*Multiply*/,
+      "Position": {
+        "X": -368.11563,
+        "Y": -413.78378
+      }
+    },
+    {
+      "ChildId": "412d8aa1-59f9-44a0-88cf-ffec810a26d9"/*Glow*/,
+      "Position": {
+        "X": 391.99255,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "5859335a-07cf-4c46-9c65-15b484f59776"/*Point Size (0.01)*/,
+      "Position": {
+        "X": -58.15387,
+        "Y": -194.93948
+      }
+    },
+    {
+      "ChildId": "54add1d4-8ea4-4b80-8b46-31c16a28cd53"/*Random Amount (0.200)*/,
+      "Position": {
+        "X": -358.15387,
+        "Y": -207.93948
+      }
+    },
+    {
+      "ChildId": "829ef6ae-6e44-4c6d-93c1-2ea97535bbeb"/*Camera*/,
+      "Position": {
+        "X": -658.1539,
+        "Y": -263.93948
+      }
+    },
+    {
+      "ChildId": "acb85cb3-8fc4-46cc-88af-a73473cde9e2"/*Vector3*/,
+      "Position": {
+        "X": -808.1539,
+        "Y": -97.93948
+      }
+    },
+    {
+      "ChildId": "f3f09896-a997-45a5-9ba6-21c50f50e227"/*Time*/,
+      "Position": {
+        "X": -1408.1538,
+        "Y": -180.93948
+      }
+    },
+    {
+      "ChildId": "9e6841ba-742c-42d1-bfa0-1b60f2096fa9"/*Cos*/,
+      "Position": {
+        "X": -1258.1538,
+        "Y": -180.93948
+      }
+    },
+    {
+      "ChildId": "c5ce79d0-a3b5-4164-adbf-ec1b47c59253"/*Multiply*/,
+      "Position": {
+        "X": -1108.1538,
+        "Y": -180.93948
+      }
+    },
+    {
+      "ChildId": "b681a2f8-9903-4c1f-a458-3e117994f0cd"/*Time*/,
+      "Position": {
+        "X": -1258.1538,
+        "Y": -97.93948
+      }
+    },
+    {
+      "ChildId": "f62dc844-2ea0-4906-b14e-3438ba68a766"/*Cos*/,
+      "Position": {
+        "X": -1108.1538,
+        "Y": -97.93948
+      }
+    },
+    {
+      "ChildId": "e4921fe6-61c5-4767-8bac-56fdd597c6c9"/*Multiply*/,
+      "Position": {
+        "X": -958.1539,
+        "Y": -97.93948
+      }
+    },
+    {
+      "ChildId": "4d4a6461-2dbf-4f85-90e1-3b24ed5c03a6"/*Time*/,
+      "Position": {
+        "X": -1258.1538,
+        "Y": -14.939484
+      }
+    },
+    {
+      "ChildId": "84afd0dc-67f1-4d1a-9d93-e3556ee1477f"/*Cos*/,
+      "Position": {
+        "X": -1108.1538,
+        "Y": -14.939484
+      }
+    },
+    {
+      "ChildId": "8dac71f2-3a26-4997-9b49-8f601718da23"/*Multiply*/,
+      "Position": {
+        "X": -958.1539,
+        "Y": -14.939484
+      }
+    },
+    {
+      "ChildId": "04da4eb4-79c0-4d0f-9e0b-53eda338d1e7"/*Vector3*/,
+      "Position": {
+        "X": -958.1539,
+        "Y": -220.93948
+      }
+    }
+  ],
+  "OutputUis": [
+    {
+      "OutputId": "a4140edb-3338-46cc-85dc-95713d005a5e"/*ImgOutput*/,
+      "Position": {
+        "X": 541.99255,
+        "Y": -263.93948
+      }
+    }
+  ]
+}

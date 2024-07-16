@@ -1,7 +1,7 @@
 {
   "Name": "HomeCanvas",
   "Id": "dab61a12-9996-401e-9aa6-328dd6292beb",
-  "Namespace": "user.t3",
+  "Namespace": "user.steaq",
   "Inputs": [],
   "Children": [
     {
@@ -179,32 +179,14 @@
       "Outputs": []
     },
     {
-      "Id": "dcf6639d-bc21-4017-b499-ae32139875ab"/*SetAttributesWithPointFieldsExamples*/,
-      "SymbolId": "7644e221-9785-414b-905d-31fd68ec080c",
+      "Id": "63695fc1-beb6-42ea-94bb-99d310075664"/*AllMyProjectsAreGone*/,
+      "SymbolId": "6700aa4b-f45b-40a3-af75-1fafc32049ef",
       "InputValues": [],
       "Outputs": []
     },
     {
-      "Id": "6a7d8425-1e13-4736-bd28-b95cfcfca070"/*FollowMeshSurfaceForceExample*/,
-      "SymbolId": "16235faf-61b7-474f-bdc7-f7abe3c538eb",
-      "InputValues": [],
-      "Outputs": []
-    },
-    {
-      "Id": "9dbf8da0-8c67-4e21-81e7-50099d724f6d"/*GamePadExample*/,
-      "SymbolId": "025285fd-c00f-44c7-8698-363ccc763fa1",
-      "InputValues": [],
-      "Outputs": []
-    },
-    {
-      "Id": "34c81476-f98b-432d-ad1a-cf5599651b0c"/*Pulsarium*/,
-      "SymbolId": "198321f6-3aa4-42ad-a34f-b39e02fe314b",
-      "InputValues": [],
-      "Outputs": []
-    },
-    {
-      "Id": "03691601-e504-4710-b437-1aedf93fb962"/*BoundingBoxPointsExample*/,
-      "SymbolId": "7bd3aab4-009f-4c5e-95c9-88f3d08b6893",
+      "Id": "baa609e5-c1b0-4665-bb77-b6b465ce86b9"/*Cornery*/,
+      "SymbolId": "d819ae44-d351-411d-80c9-5d6e1793f7c7",
       "InputValues": [],
       "Outputs": []
     }

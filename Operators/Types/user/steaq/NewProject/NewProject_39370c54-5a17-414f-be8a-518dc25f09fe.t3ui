@@ -1,0 +1,29 @@
+{
+  "Id": "39370c54-5a17-414f-be8a-518dc25f09fe"/*NewProject*/,
+  "InputUis": [],
+  "SymbolChildUis": [
+    {
+      "ChildId": "fd0a1d68-6b39-42ea-b18b-b11dd362f476"/*RenderTarget*/,
+      "Position": {
+        "X": -361.71448,
+        "Y": -359.70978
+      }
+    },
+    {
+      "ChildId": "9f29c96c-5a7e-4883-9c9c-4fbd4724d906"/*Text*/,
+      "Position": {
+        "X": -511.71448,
+        "Y": -359.70978
+      }
+    }
+  ],
+  "OutputUis": [
+    {
+      "OutputId": "18d35a9d-8ee1-4b91-9ff2-bec518dc3f02"/*ImgOutput*/,
+      "Position": {
+        "X": -211.71448,
+        "Y": -359.70978
+      }
+    }
+  ]
+}
