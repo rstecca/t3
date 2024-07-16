@@ -1263,11 +1263,11 @@
   ],
   "PlaybackSettings": {
     "Enabled": true,
-    "Bpm": 120.0,
+    "Bpm": 119.960144,
     "AudioSource": 1,
-    "Syncing": 0,
+    "Syncing": 1,
     "AudioDecayFactor": 0.9,
     "AudioGainFactor": 1.0,
-    "AudioInputDeviceName": "Kopfhörer (Blue Byrd (2nd gen.))"
+    "AudioInputDeviceName": "Lautsprecher (Realtek(R) Audio)"
   }
 }
