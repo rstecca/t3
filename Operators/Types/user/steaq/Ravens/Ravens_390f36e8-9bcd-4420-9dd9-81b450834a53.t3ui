@@ -1,0 +1,30 @@
+{
+  "Id": "390f36e8-9bcd-4420-9dd9-81b450834a53"/*Ravens*/,
+  "Description": "The elegance of ravens",
+  "InputUis": [],
+  "SymbolChildUis": [
+    {
+      "ChildId": "3c0ce175-df8f-4b41-8af7-e4971f8842d0"/*RenderTarget*/,
+      "Position": {
+        "X": -361.71448,
+        "Y": -359.70978
+      }
+    },
+    {
+      "ChildId": "575ab4c7-ac7f-4f05-924a-8d00838d16fd"/*Text*/,
+      "Position": {
+        "X": -511.71448,
+        "Y": -359.70978
+      }
+    }
+  ],
+  "OutputUis": [
+    {
+      "OutputId": "fc5d1332-98f6-4d54-b8ef-177e87156766"/*ImgOutput*/,
+      "Position": {
+        "X": -211.71448,
+        "Y": -359.70978
+      }
+    }
+  ]
+}

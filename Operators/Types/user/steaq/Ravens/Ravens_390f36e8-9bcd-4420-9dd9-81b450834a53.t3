@@ -1,0 +1,45 @@
+{
+  "Name": "Ravens",
+  "Id": "390f36e8-9bcd-4420-9dd9-81b450834a53",
+  "Namespace": "user.steaq.Ravens",
+  "Inputs": [],
+  "Children": [
+    {
+      "Id": "3c0ce175-df8f-4b41-8af7-e4971f8842d0"/*RenderTarget*/,
+      "SymbolId": "f9fe78c5-43a6-48ae-8e8c-6cdbbc330dd1",
+      "InputValues": [],
+      "Outputs": []
+    },
+    {
+      "Id": "575ab4c7-ac7f-4f05-924a-8d00838d16fd"/*Text*/,
+      "SymbolId": "fd31d208-12fe-46bf-bfa3-101211f8f497",
+      "InputValues": [
+        {
+          "Id": "f1f1be0e-d5bc-4940-bbc1-88bfa958f0e1"/*InputText*/,
+          "Type": "System.String",
+          "Value": "RAVENS"
+        },
+        {
+          "Id": "28be4e86-6761-4d07-80bf-abf6f82897e4"/*CullMode*/,
+          "Type": "SharpDX.Direct3D11.CullMode",
+          "Value": "None"
+        }
+      ],
+      "Outputs": []
+    }
+  ],
+  "Connections": [
+    {
+      "SourceParentOrChildId": "3c0ce175-df8f-4b41-8af7-e4971f8842d0",
+      "SourceSlotId": "7a4c4feb-be2f-463e-96c6-cd9a6bad77a2",
+      "TargetParentOrChildId": "00000000-0000-0000-0000-000000000000",
+      "TargetSlotId": "fc5d1332-98f6-4d54-b8ef-177e87156766"
+    },
+    {
+      "SourceParentOrChildId": "575ab4c7-ac7f-4f05-924a-8d00838d16fd",
+      "SourceSlotId": "3f8b20a7-c8b8-45ab-86a1-0efcd927358e",
+      "TargetParentOrChildId": "3c0ce175-df8f-4b41-8af7-e4971f8842d0",
+      "TargetSlotId": "4da253b7-4953-439a-b03f-1d515a78bddf"
+    }
+  ]
+}
