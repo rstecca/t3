@@ -736,18 +736,13 @@
           "Id": "b4a8c16d-5a0f-4867-ae03-92a675abe709"/*Translation*/,
           "Type": "System.Numerics.Vector3",
           "Value": {
-            "X": -1.1557616,
+            "X": -0.79,
             "Y": 0.6311328,
             "Z": 0.0
           }
         }
       ],
-      "Outputs": [
-        {
-          "Id": "2d329133-29b9-4f56-b5a6-5ff7d83638fa"/*Transform*/,
-          "IsDisabled": true
-        }
-      ]
+      "Outputs": []
     },
     {
       "Id": "abfc57df-b067-4a4c-9e3c-f723fa065261"/*All*/,
