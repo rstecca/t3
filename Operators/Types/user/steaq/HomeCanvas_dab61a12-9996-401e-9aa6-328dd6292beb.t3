@@ -201,6 +201,12 @@
       "SymbolId": "3453a51f-c1de-4cce-a6c3-5a5fae039793",
       "InputValues": [],
       "Outputs": []
+    },
+    {
+      "Id": "5f7abfd1-c63f-4679-ab10-08c82dd4ecf9"/*CowSkull*/,
+      "SymbolId": "c627da8e-5d1b-486a-a8e0-31afcf4287f6",
+      "InputValues": [],
+      "Outputs": []
     }
   ],
   "Connections": [

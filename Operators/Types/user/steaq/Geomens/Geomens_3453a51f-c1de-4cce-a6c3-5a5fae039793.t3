@@ -296,7 +296,7 @@
         {
           "Id": "835cf0fb-9958-4c60-9cf6-afc2f846b68a"/*Count*/,
           "Type": "System.Int32",
-          "Value": 5
+          "Value": 2
         }
       ],
       "Outputs": []
@@ -309,6 +309,11 @@
           "Id": "5894156a-cc31-4236-908c-de0e5385fd84"/*Amount*/,
           "Type": "System.Single",
           "Value": 20.0
+        },
+        {
+          "Id": "929db7b2-f19c-4a28-b4c2-187365b99760"/*Frequency*/,
+          "Type": "System.Single",
+          "Value": 10.0
         }
       ],
       "Outputs": []
@@ -317,6 +322,16 @@
       "Id": "03f56da1-d697-435f-9959-d3c69c5870de"/*DrawLines*/,
       "SymbolId": "836f211f-b387-417c-8316-658e0dc6e117",
       "InputValues": [
+        {
+          "Id": "75419a73-8a3e-4538-9a1d-e3b0ce7f8561"/*Color*/,
+          "Type": "System.Numerics.Vector4",
+          "Value": {
+            "X": 0.0,
+            "Y": 0.97066164,
+            "Z": 1.0,
+            "W": 1.0
+          }
+        },
         {
           "Id": "df158fcf-3042-48cf-8383-7bf4c1bcb8a6"/*Size*/,
           "Type": "System.Single",
